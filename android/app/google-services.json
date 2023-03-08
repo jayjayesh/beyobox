@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641769391310",
+    "project_id": "beyobox-landing",
+    "storage_bucket": "beyobox-landing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641769391310:android:1608bf178dfa770bd77c9f",
+        "android_client_info": {
+          "package_name": "com.beyobox.landing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641769391310-s7dj8p69k6d23uam8j8a7tqd64o8damn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAitUA8_bunfdvHlTY0b9cjFi5z9X95eYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641769391310-f8ug01afnev2o27a19vvcsf1l75kjsc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
